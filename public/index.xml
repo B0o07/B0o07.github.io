@@ -26,5 +26,13 @@
       <description>&lt;p&gt;Welcome back to the journey. In my previous update, I laid out the foundation. Now, it&amp;rsquo;s time to get hands-on and build the actual ecosystem where all the hacking, enumeration, and bug hunting will take place.&lt;/p&gt;
 &lt;p&gt;If you are starting from absolute zero like I am, you don’t need an expensive rig or complex cloud setups to start learning offensive security. All you need is a hypervisor, a solid Linux distribution, and the right mindset.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Cracking the OWASP Top 10: The Essential Roadmap for Bug Bounty Hunters</title>
+      <link>https://b0o07.github.io/posts/oswat-top10/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/posts/oswat-top10/</guid>
+      <description>&lt;p&gt;If you want to make serious money finding vulnerabilities in web applications, you cannot just click around randomly and hope for the best. Professional bug bounty hunters operate with a framework, and the absolute holy grail of web application security is the OWASP Top 10.&lt;/p&gt;
+&lt;p&gt;Whether you are targeting global enterprises or smaller programs on HackerOne and Bugcrowd, understanding the OWASP Top 10 is your first real weapon to land valid, high-payout bugs.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
