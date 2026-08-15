@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Nickye | Zero to Hero in CyberSec</title>
-    <link>https://B0o07.github.io/tags/</link>
+    <link>https://b0o07.github.io/tags/</link>
     <description>Recent content in Tags on Nickye | Zero to Hero in CyberSec</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2026 17:00:00 -0300</lastBuildDate>
-    <atom:link href="https://B0o07.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://b0o07.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity</title>
-      <link>https://B0o07.github.io/tags/cybersecurity/</link>
+      <link>https://b0o07.github.io/tags/cybersecurity/</link>
       <pubDate>Sat, 15 Aug 2026 17:00:00 -0300</pubDate>
-      <guid>https://B0o07.github.io/tags/cybersecurity/</guid>
+      <guid>https://b0o07.github.io/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindset</title>
-      <link>https://B0o07.github.io/tags/mindset/</link>
+      <link>https://b0o07.github.io/tags/mindset/</link>
       <pubDate>Sat, 15 Aug 2026 17:00:00 -0300</pubDate>
-      <guid>https://B0o07.github.io/tags/mindset/</guid>
+      <guid>https://b0o07.github.io/tags/mindset/</guid>
       <description></description>
     </item>
     <item>
       <title>Setup</title>
-      <link>https://B0o07.github.io/tags/setup/</link>
+      <link>https://b0o07.github.io/tags/setup/</link>
       <pubDate>Sat, 15 Aug 2026 17:00:00 -0300</pubDate>
-      <guid>https://B0o07.github.io/tags/setup/</guid>
+      <guid>https://b0o07.github.io/tags/setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bug Bounty</title>
+      <link>https://b0o07.github.io/tags/bug-bounty/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/tags/bug-bounty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://b0o07.github.io/tags/linux/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recon</title>
+      <link>https://b0o07.github.io/tags/recon/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/tags/recon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VirtualBox</title>
+      <link>https://b0o07.github.io/tags/virtualbox/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/tags/virtualbox/</guid>
       <description></description>
     </item>
   </channel>

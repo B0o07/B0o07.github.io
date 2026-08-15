@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Recon on Nickye | Zero to Hero in CyberSec</title>
+    <link>https://b0o07.github.io/tags/recon/</link>
+    <description>Recent content in Recon on Nickye | Zero to Hero in CyberSec</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://b0o07.github.io/tags/recon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building My Offensive Linux Lab: Setting Up from Scratch for Bug Bounty</title>
+      <link>https://b0o07.github.io/posts/linux-lab/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://b0o07.github.io/posts/linux-lab/</guid>
+      <description>&lt;p&gt;Welcome back to the journey. In my previous update, I laid out the foundation. Now, it&amp;rsquo;s time to get hands-on and build the actual ecosystem where all the hacking, enumeration, and bug hunting will take place.&lt;/p&gt;
+&lt;p&gt;If you are starting from absolute zero like I am, you don’t need an expensive rig or complex cloud setups to start learning offensive security. All you need is a hypervisor, a solid Linux distribution, and the right mindset.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
