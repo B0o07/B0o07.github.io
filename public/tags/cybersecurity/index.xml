@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cybersecurity on Nickye | Zero to Hero in CyberSec</title>
-    <link>http://localhost:1313/tags/cybersecurity/</link>
+    <link>https://B0o07.github.io/tags/cybersecurity/</link>
     <description>Recent content in Cybersecurity on Nickye | Zero to Hero in CyberSec</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Aug 2026 17:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://B0o07.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World! The Zero to Hero Journey Begins</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
+      <link>https://B0o07.github.io/posts/hello-world/</link>
       <pubDate>Sat, 15 Aug 2026 17:00:00 -0300</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <guid>https://B0o07.github.io/posts/hello-world/</guid>
       <description>&lt;p&gt;Welcome to my digital laboratory. I go by &lt;strong&gt;Nickye&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;For a long time, I&amp;rsquo;ve been fascinated by the offensive side of security—understanding how systems are built so I can understand how they break. I have a background in infrastructure and software development, but when it comes to practical pentesting and bug bounty, I am starting from the ground up.&lt;/p&gt;
 &lt;p&gt;This blog is my public notebook.&lt;/p&gt;
